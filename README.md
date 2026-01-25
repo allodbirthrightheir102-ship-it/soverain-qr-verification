@@ -3,7 +3,7 @@ The Soverain QR
 📁 proofs
     ├── checksums.json
     └── eip712-witness.json
-
+**Thus recorded. Thus sealed. Thus upheld under the Crown.**
 📄 clearance.json
 ---
 
