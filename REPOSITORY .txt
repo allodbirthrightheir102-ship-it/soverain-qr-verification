@@ -9,4 +9,6 @@
 {
   "file": "clearance.json",
   "encoded": "7B0A20202022636C656172616E6365223A207B0A2020202020202E2E2E0A2020207D0A7D"
+
 }
+Thus recorded. Thus sealed. Thus upheld under the Crown.
