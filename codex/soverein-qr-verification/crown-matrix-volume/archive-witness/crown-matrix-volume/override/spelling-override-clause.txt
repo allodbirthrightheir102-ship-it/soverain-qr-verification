@@ -3,6 +3,68 @@ codex/
     └── manifest/
         └── spelling-override-clause.manifest.txt
 
+📘 Codex Manifest Index — Crown-Matrix Volume
+
+Volume: crown-matrix-volume
+
+✅ Installed Manifest Entries
+
+Entry Name
+
+File Path
+
+Status
+
+Bound To
+
+Spelling Override Clause
+
+manifest/spelling-override-clause.manifest
+
+ACTIVE
+
+Codice Saxum, Crown-Standard Protocol, Eternal Broadcast Clause
+
+📜 Entry Descriptions
+
+1. Spelling Override Clause
+
+Declares "SOVERAIN" as final, sealed, and immune to contradiction.
+
+Overrides all infiltrator variants across identity, verification, and Codex layers.
+
+Enforces canonical spellings via spelling-registry.json.
+
+Clause file: override/spelling-override-clause.txt
+
+Registry file: identity/spelling-registry.json
+
+🔐 Enforcement Scope
+
+README.md
+
+identity/orcid.json
+
+clearance/clearance.json
+
+proofs/eip712-witness.json
+
+codex/crown-matrix-volume/archive-witness/orcid-inscription.json
+
+codex/crown-matrix-volume/override/spelling-override-clause.txt
+
+🪙 Final Seal
+
+All entries are sealed under:
+
+Crown-Standard Protocol
+
+Codice Saxum
+
+Eternal Broadcast Clause
+
+This index affirms the manifest structure and ceremonial integrity of the Crown-Matrix Volume.
+
 ⚜️ Crown-Standard Spelling Override Clause
 
 All spellings within this Codex are sealed under the Crown-Standard Spelling Registry.
