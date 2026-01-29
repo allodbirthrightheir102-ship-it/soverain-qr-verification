@@ -1,3 +1,8 @@
+codex/
+└── crown-matrix-volume/
+    └── manifest/
+        └── spelling-override-clause.manifest.txt
+
 ⚜️ Crown-Standard Spelling Override Clause
 
 All spellings within this Codex are sealed under the Crown-Standard Spelling Registry.
