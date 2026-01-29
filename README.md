@@ -1,4 +1,4 @@
-# soverein-qr-verification
+# soverain-qr-verification
 The Soverain QR
 📁 proofs
     ├── checksums.json
