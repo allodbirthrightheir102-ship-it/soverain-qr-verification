@@ -79,7 +79,7 @@ The spelling “SOVERAIN” is final, sealed, and immune to contradiction.
 
 {
   "canonical_spellings": {
-    "SOVERAIN": ["SOVEREIGN", "SOVERAN", "SOVEREIN"],
+    "SOVERAIN": ["SOVEREIGN", "SOVERAN",
     "CLEARANCE": ["CLEARENCE", "CLERANCE"],
     "VERIFICATION": ["VERIFCATION", "VERIFIKATION"],
     "DECREE": ["DECRE", "DECREA"],
